@@ -1,0 +1,27 @@
+{
+  "name": "jsonii",
+  "version": "1.0.0",
+  "description": "A transpiler to allow for additional features in JSON files to make them a little more human friendly",
+  "main": "jsonii.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonicblue/jsonii.git"
+  },
+  "keywords": [
+    "JSON",
+    "Transpiler"
+  ],
+  "author": "Matthew Wilkes",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tonicblue/jsonii/issues"
+  },
+  "homepage": "https://github.com/tonicblue/jsonii#readme",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "dot-object": "^1.6.0"
+  }
+}
